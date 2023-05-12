@@ -10,9 +10,7 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 -<br />
 
 ![Mihaly's github stats](https://github-readme-stats.vercel.app/api?username=mihalyjeles&show_icons=true&theme=radical)
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
