@@ -30,12 +30,6 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <img align="left" alt="S3" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.w6RlVPe0j68tRDfq2kI_NAHaFj&pid=Api&P=0" />
 <img align="left" alt="Pandas" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 
-
-
-
-
-
-
 ### Connect with me:
 [Linkedin-Profile](https://www.linkedin.com/in/mihaly-zoltan-jeles-64203526b/) | mihaly.jeles@gmail.com
 
