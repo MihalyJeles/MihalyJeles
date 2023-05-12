@@ -30,5 +30,6 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <br />
 <br />
 ### Connect with me:
+<br />
 [Linkedin-Profile](https://www.linkedin.com/in/mihaly-zoltan-jeles-64203526b/) | mihaly.jeles@gmail.com
 
