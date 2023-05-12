@@ -22,6 +22,10 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
