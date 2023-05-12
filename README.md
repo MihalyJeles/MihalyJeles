@@ -9,6 +9,7 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 - 💬 Ask me about anything, I am happy to help
 
 [![Mihaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihalyjeles)](https://github.com/anuraghazra/github-readme-stats)
+![Mihaly's github stats](https://github-readme-stats.vercel.app/api?username=mihalyjeles&show_icons=true&theme=radical)
 
 <br />
 <br />
