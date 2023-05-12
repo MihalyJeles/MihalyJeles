@@ -22,15 +22,13 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Jupyter" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
-<img align="left" alt="Pandas" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="Numpy" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
 <img align="left" alt="Redshift" width="50px" src="https://tse3.explicit.bing.net/th?id=OIP.okeRdppRJCfrZlB47Js-OAHaEK&pid=Api&P=0" />
 <img align="left" alt="EC2" width="50px" src="https://tse4.mm.bing.net/th?id=OIP.0bENSQPRYRBEMrcursLI3wHaI9&pid=Api&P=0" />
 <img align="left" alt="Lambda" width="50px" src="https://tse2.mm.bing.net/th?id=OIP.SZB_x5M5SCM2X2PzYBjWJgAAAA&pid=Api&P=0" />
 <img align="left" alt="Cloudwatch" width="50px" src="https://tse1.explicit.bing.net/th?id=OIP.puDba54tXA8YYBv_7v4mMQHaEo&pid=Api&P=0" />
 <img align="left" alt="S3" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.w6RlVPe0j68tRDfq2kI_NAHaFj&pid=Api&P=0" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Pandas" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <br />
 
 
