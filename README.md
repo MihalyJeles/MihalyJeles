@@ -21,11 +21,9 @@
 <img align="left" alt="VisualStudio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="Jupyter" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
 <img align="left" alt="SQL" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.ZKbg8HdzzxdYHnbKCeF9vAAAAA&pid=Api&P=0" />
 <img align="left" alt="Redshift" width="58px" src="https://tse4.mm.bing.net/th?id=OIP.-OKEF8llrJqx5IstVJQj9gAAAA&pid=Api&P=0" />
 <img align="left" alt="EC2" width="47px" src="https://tse2.mm.bing.net/th?id=OIP.frTt0YlIVSR30kCFx6X5sQAAAA&pid=Api&P=0" />
-<img align="left" alt="Lambda" width="60px" src="https://tse2.mm.bing.net/th?id=OIP.SZB_x5M5SCM2X2PzYBjWJgAAAA&pid=Api&P=0" />
 <img align="left" alt="Cloudwatch" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.gDmlMDulZFUSSKz3Nw2vIAHaIZ&pid=Api&P=0" />
 <img align="left" alt="S3" width="55px" src="https://tse4.mm.bing.net/th?id=OIP.iN-HyTrHbuxO909ZnqY7bAAAAA&pid=Api&P=0" /><br />
 
