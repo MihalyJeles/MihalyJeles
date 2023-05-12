@@ -25,6 +25,11 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/Jupyter_logo.png" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />
+<img align="left" alt="Redshift" width="26px" src="https://raw.githubusercontent.com/generation-de-lon9/mihaly-jeles-mini-project/main/ikonslogos/Redshift_logo-Black-320x180.webp?token=GHSAT0AAAAAACCOVWBAVEP4VR27FI5U76L6ZC6RIBA" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
