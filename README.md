@@ -29,7 +29,7 @@ I am a confident and friendly person who has extensive experience as a Data Engi
 <img align="left" alt="Cloudwatch" width="50px" src="https://tse1.explicit.bing.net/th?id=OIP.puDba54tXA8YYBv_7v4mMQHaEo&pid=Api&P=0" />
 <img align="left" alt="S3" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.w6RlVPe0j68tRDfq2kI_NAHaFj&pid=Api&P=0" />
 <img align="left" alt="Pandas" width="50px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/pandas.png" />
-<br />
+
 
 
 
