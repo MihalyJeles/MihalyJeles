@@ -13,7 +13,7 @@
 
 ![Mihaly's github stats](https://github-readme-stats.vercel.app/api?username=mihalyjeles&show_icons=true&theme=radical)
 <br />
-### Languages and Tools:
+### Languages and Tools: 
 
 <img align="left" alt="Python3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" />
