@@ -12,7 +12,7 @@
 
 
 ![Mihaly's github stats](https://github-readme-stats.vercel.app/api?username=mihalyjeles&show_icons=true&theme=radical)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jmihalyjeles&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mihalyjeles&count_private=true&theme=tokyonight&showicons=true)]()
 <br />
 ### Languages and Tools: 
 
