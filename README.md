@@ -6,7 +6,7 @@
 - 🔭 I'm attending Generation for Data Engineering!
 - 🌱 I’m currently learning AWS 
 - 👯 I’m looking to collaborate with other Data Engineers
-- 🥅 2023 Goals: Learn more about AWS and ETL pipelines
+- 🥅 2024 Goals: Learn more about AWS and ETL pipelines
 - 💬 Ask me about anything, I am happy to help
 -<br /><br>
 
